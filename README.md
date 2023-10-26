@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ichbinNacht
 - 👀 I’m interested to learn web development, front and back-end.
-- 🌱 I’m currently learning about Front-End.
+- 🌱 I’m currently learning about Front-End (HTML and CSS).
 - 💞️ I’m looking to collaborate on Front projects.
 - 📫 How to reach me (telegram: @leomedeiros or my personal mail: ichnacht50@gmail.com
 
