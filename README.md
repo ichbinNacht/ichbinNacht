@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ichbinNacht
-- 👀 I’m interested to learn web development, front and back-end.
-- 🌱 I’m currently learning about Front-End (HTML and CSS).
-- 💞️ I’m looking to collaborate on Front projects.
+- 👋 Hi, I’m Leôncio Macambira
+- 📚 I'm majoring in Systems Analysis and Development.
+- 🔎 I’m currently learning about Front-End (HTML and CSS).
+- 💻 I’m looking to collaborate on Front projects and having my first job opportunity in the development area.
 - 📫 How to reach me (telegram: @leomedeiros or my personal mail: ichnacht50@gmail.com
 
 <!---
